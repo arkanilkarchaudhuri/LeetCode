@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/max-points-on-a-line/">149. Max Points on a Line</a></h2><h3>Hard</h3><hr><p>Given an array of <code>points</code> where <code>points[i] = [x<sub>i</sub>, y<sub>i</sub>]</code> represents a point on the <strong>X-Y</strong> plane, return <em>the maximum number of points that lie on the same straight line</em>.</p>
+<h2><a href="https://leetcode.com/problems/max-points-on-a-line">149. Max Points on a Line</a></h2><h3>Hard</h3><hr><p>Given an array of <code>points</code> where <code>points[i] = [x<sub>i</sub>, y<sub>i</sub>]</code> represents a point on the <strong>X-Y</strong> plane, return <em>the maximum number of points that lie on the same straight line</em>.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
