@@ -17,6 +17,7 @@ A collection of LeetCode questions completed
 | [0174-dungeon-game](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0174-dungeon-game) |
 | [0212-word-search-ii](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0212-word-search-ii) |
 | [0218-the-skyline-problem](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0218-the-skyline-problem) |
+| [0220-contains-duplicate-iii](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0220-contains-duplicate-iii) |
 | [0724-find-pivot-index](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0724-find-pivot-index) |
 | [1319-unique-number-of-occurrences](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions completed
 ## Sorting
 |  |
 | ------- |
+| [0220-contains-duplicate-iii](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0220-contains-duplicate-iii) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## String
 |  |
@@ -140,6 +142,7 @@ A collection of LeetCode questions completed
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0220-contains-duplicate-iii](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0220-contains-duplicate-iii) |
 ## Backtracking
 |  |
 | ------- |
@@ -247,4 +250,9 @@ A collection of LeetCode questions completed
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0218-the-skyline-problem) |
+| [0220-contains-duplicate-iii](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0220-contains-duplicate-iii) |
+## Bucket Sort
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0220-contains-duplicate-iii) |
 <!---LeetCode Topics End-->
