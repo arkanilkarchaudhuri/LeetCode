@@ -13,6 +13,7 @@ A collection of LeetCode questions completed
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0135-candy](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0135-candy) |
 | [0140-word-break-ii](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0140-word-break-ii) |
+| [0149-max-points-on-a-line](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0724-find-pivot-index](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0724-find-pivot-index) |
 | [1319-unique-number-of-occurrences](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions completed
 | [0076-minimum-window-substring](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0127-word-ladder) |
 | [0140-word-break-ii](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0140-word-break-ii) |
+| [0149-max-points-on-a-line](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [1319-unique-number-of-occurrences](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions completed
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0060-permutation-sequence) |
+| [0149-max-points-on-a-line](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0149-max-points-on-a-line) |
 ## Tree
 |  |
 | ------- |
@@ -165,4 +168,8 @@ A collection of LeetCode questions completed
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0140-word-break-ii) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
