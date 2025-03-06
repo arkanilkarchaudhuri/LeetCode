@@ -75,6 +75,7 @@ A collection of LeetCode questions completed
 | [0214-shortest-palindrome](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0273-integer-to-english-words) |
+| [0282-expression-add-operators](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0282-expression-add-operators) |
 | [0392-is-subsequence](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0394-decode-string) |
 | [0649-dota2-senate](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0649-dota2-senate) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions completed
 | [0051-n-queens](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0051-n-queens) |
 | [0140-word-break-ii](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0212-word-search-ii) |
+| [0282-expression-add-operators](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0282-expression-add-operators) |
 ## Matrix
 |  |
 | ------- |
@@ -183,6 +185,7 @@ A collection of LeetCode questions completed
 | [0224-basic-calculator](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0273-integer-to-english-words](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0273-integer-to-english-words) |
+| [0282-expression-add-operators](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0282-expression-add-operators) |
 | [2649-count-total-number-of-colored-cells](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 | [3227-find-missing-and-repeated-values](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Tree
