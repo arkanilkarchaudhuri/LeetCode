@@ -8,6 +8,7 @@ A collection of LeetCode questions completed
 | [0042-trapping-rain-water](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0051-n-queens) |
 | [0068-text-justification](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0068-text-justification) |
+| [0084-largest-rectangle-in-histogram](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0135-candy](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0135-candy) |
 | [0724-find-pivot-index](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0724-find-pivot-index) |
 | [1319-unique-number-of-occurrences](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1319-unique-number-of-occurrences) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions completed
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
@@ -117,6 +119,7 @@ A collection of LeetCode questions completed
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 ## Math
 |  |
 | ------- |
