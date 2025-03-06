@@ -76,6 +76,7 @@ A collection of LeetCode questions completed
 | ------- |
 | [0010-regular-expression-matching](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0044-wildcard-matching) |
+| [0060-permutation-sequence](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0060-permutation-sequence) |
 ## Linked List
 |  |
 | ------- |
@@ -109,4 +110,8 @@ A collection of LeetCode questions completed
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0042-trapping-rain-water) |
+## Math
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
