@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/scramble-string/">87. Scramble String</a></h2><h3>Hard</h3><hr><p>We can scramble a string s to get a string t using the following algorithm:</p>
+<h2><a href="https://leetcode.com/problems/scramble-string">87. Scramble String</a></h2><h3>Hard</h3><hr><p>We can scramble a string s to get a string t using the following algorithm:</p>
 
 <ol>
 	<li>If the length of the string is 1, stop.</li>
