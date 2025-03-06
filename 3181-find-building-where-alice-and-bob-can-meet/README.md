@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/">3181. Find Building Where Alice and Bob Can Meet</a></h2><h3>Hard</h3><hr><p>You are given a <strong>0-indexed</strong> array <code>heights</code> of positive integers, where <code>heights[i]</code> represents the height of the <code>i<sup>th</sup></code> building.</p>
+<h2><a href="https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet">3181. Find Building Where Alice and Bob Can Meet</a></h2><h3>Hard</h3><hr><p>You are given a <strong>0-indexed</strong> array <code>heights</code> of positive integers, where <code>heights[i]</code> represents the height of the <code>i<sup>th</sup></code> building.</p>
 
 <p>If a person is in building <code>i</code>, they can move to any other building <code>j</code> if and only if <code>i &lt; j</code> and <code>heights[i] &lt; heights[j]</code>.</p>
 
