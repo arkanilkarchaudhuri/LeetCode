@@ -12,6 +12,7 @@ A collection of LeetCode questions completed
 | [0085-maximal-rectangle](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0135-candy](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0135-candy) |
+| [0140-word-break-ii](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0140-word-break-ii) |
 | [0724-find-pivot-index](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0724-find-pivot-index) |
 | [1319-unique-number-of-occurrences](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions completed
 | [0037-sudoku-solver](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0127-word-ladder) |
+| [0140-word-break-ii](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0140-word-break-ii) |
 | [1319-unique-number-of-occurrences](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions completed
 | [0076-minimum-window-substring](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0087-scramble-string](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0087-scramble-string) |
 | [0127-word-ladder](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0127-word-ladder) |
+| [0140-word-break-ii](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0140-word-break-ii) |
 | [0392-is-subsequence](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0392-is-subsequence) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Dynamic Programming
@@ -70,6 +73,7 @@ A collection of LeetCode questions completed
 | [0087-scramble-string](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0087-scramble-string) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0140-word-break-ii](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0140-word-break-ii) |
 | [0392-is-subsequence](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0392-is-subsequence) |
 ## Stack
 |  |
@@ -121,6 +125,7 @@ A collection of LeetCode questions completed
 | ------- |
 | [0037-sudoku-solver](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0051-n-queens) |
+| [0140-word-break-ii](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0140-word-break-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -152,4 +157,12 @@ A collection of LeetCode questions completed
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0127-word-ladder) |
+## Trie
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0140-word-break-ii) |
+## Memoization
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
