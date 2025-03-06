@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/permutation-sequence/">60. Permutation Sequence</a></h2><h3>Hard</h3><hr><p>The set <code>[1, 2, 3, ...,&nbsp;n]</code> contains a total of <code>n!</code> unique permutations.</p>
+<h2><a href="https://leetcode.com/problems/permutation-sequence">60. Permutation Sequence</a></h2><h3>Hard</h3><hr><p>The set <code>[1, 2, 3, ...,&nbsp;n]</code> contains a total of <code>n!</code> unique permutations.</p>
 
 <p>By listing and labeling all of the permutations in order, we get the following sequence for <code>n = 3</code>:</p>
 
