@@ -39,16 +39,19 @@ A collection of LeetCode questions completed
 | ------- |
 | [0010-regular-expression-matching](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0392-is-subsequence](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0392-is-subsequence) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0032-longest-valid-parentheses](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0392-is-subsequence](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0392-is-subsequence) |
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
