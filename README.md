@@ -24,6 +24,7 @@ A collection of LeetCode questions completed
 | [0030-substring-with-concatenation-of-all-words](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0127-word-ladder](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0127-word-ladder) |
 | [1319-unique-number-of-occurrences](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions completed
 | [0068-text-justification](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0087-scramble-string](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0087-scramble-string) |
+| [0127-word-ladder](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0127-word-ladder) |
 | [0392-is-subsequence](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0392-is-subsequence) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Dynamic Programming
@@ -146,4 +148,8 @@ A collection of LeetCode questions completed
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
