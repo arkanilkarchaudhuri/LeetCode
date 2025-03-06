@@ -270,4 +270,8 @@ A collection of LeetCode questions completed
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Database
+|  |
+| ------- |
+| [0262-trips-and-users](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0262-trips-and-users) |
 <!---LeetCode Topics End-->
