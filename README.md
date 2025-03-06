@@ -44,6 +44,7 @@ A collection of LeetCode questions completed
 | [0010-regular-expression-matching](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0044-wildcard-matching) |
 | [0392-is-subsequence](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0392-is-subsequence) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Dynamic Programming
@@ -52,6 +53,7 @@ A collection of LeetCode questions completed
 | [0010-regular-expression-matching](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0044-wildcard-matching) |
 | [0392-is-subsequence](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0392-is-subsequence) |
 ## Stack
 |  |
@@ -66,11 +68,13 @@ A collection of LeetCode questions completed
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0044-wildcard-matching) |
 | [0135-candy](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0135-candy) |
 ## Recursion
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0044-wildcard-matching](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0044-wildcard-matching) |
 ## Linked List
 |  |
 | ------- |
