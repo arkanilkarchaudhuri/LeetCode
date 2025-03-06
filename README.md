@@ -20,6 +20,7 @@ A collection of LeetCode questions completed
 | [1798-max-number-of-k-sum-pairs](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3227-find-missing-and-repeated-values](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions completed
 | [0085-maximal-rectangle](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0394-decode-string](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0394-decode-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Simulation
 |  |
 | ------- |
@@ -120,6 +122,7 @@ A collection of LeetCode questions completed
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Merge Sort
 |  |
 | ------- |
@@ -147,6 +150,7 @@ A collection of LeetCode questions completed
 | [0042-trapping-rain-water](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0085-maximal-rectangle) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Math
 |  |
 | ------- |
@@ -197,4 +201,16 @@ A collection of LeetCode questions completed
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0969-number-of-recent-calls) |
+## Binary Search
+|  |
+| ------- |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+## Segment Tree
+|  |
+| ------- |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 <!---LeetCode Topics End-->
