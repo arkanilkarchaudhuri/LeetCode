@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/wildcard-matching/">44. Wildcard Matching</a></h2><h3>Hard</h3><hr><p>Given an input string (<code>s</code>) and a pattern (<code>p</code>), implement wildcard pattern matching with support for <code>&#39;?&#39;</code> and <code>&#39;*&#39;</code> where:</p>
+<h2><a href="https://leetcode.com/problems/wildcard-matching">44. Wildcard Matching</a></h2><h3>Hard</h3><hr><p>Given an input string (<code>s</code>) and a pattern (<code>p</code>), implement wildcard pattern matching with support for <code>&#39;?&#39;</code> and <code>&#39;*&#39;</code> where:</p>
 
 <ul>
 	<li><code>&#39;?&#39;</code> Matches any single character.</li>
