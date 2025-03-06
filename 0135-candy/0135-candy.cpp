@@ -14,8 +14,8 @@ public:
             if (ratings[i] > ratings[i + 1]) {
                 candies[i] = std::max(candies[i], candies[i + 1] + 1);
             }
+        
         }
-
         int totalCandies = 0;
         for (int candy : candies) {
             totalCandies += candy;
