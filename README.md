@@ -52,6 +52,7 @@ A collection of LeetCode questions completed
 | [0042-trapping-rain-water](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0392-is-subsequence](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0392-is-subsequence) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Sorting
 |  |
@@ -131,6 +132,7 @@ A collection of LeetCode questions completed
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
