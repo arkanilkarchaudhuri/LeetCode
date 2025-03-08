@@ -133,6 +133,7 @@ A collection of LeetCode questions completed
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0328-odd-even-linked-list](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Divide and Conquer
 |  |
