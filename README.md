@@ -104,6 +104,7 @@ A collection of LeetCode questions completed
 | [0174-dungeon-game](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0174-dungeon-game) |
 | [0233-number-of-digit-one](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0392-is-subsequence](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0392-is-subsequence) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Stack
 |  |
 | ------- |
@@ -220,6 +221,7 @@ A collection of LeetCode questions completed
 | [0124-binary-tree-maximum-path-sum](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0437-path-sum-iii](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0437-path-sum-iii) |
 | [0904-leaf-similar-trees](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0904-leaf-similar-trees) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Depth-First Search
@@ -229,6 +231,7 @@ A collection of LeetCode questions completed
 | [0124-binary-tree-maximum-path-sum](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0437-path-sum-iii](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0437-path-sum-iii) |
 | [0904-leaf-similar-trees](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0904-leaf-similar-trees) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Binary Tree
@@ -238,6 +241,7 @@ A collection of LeetCode questions completed
 | [0124-binary-tree-maximum-path-sum](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0437-path-sum-iii](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0437-path-sum-iii) |
 | [0904-leaf-similar-trees](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0904-leaf-similar-trees) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
