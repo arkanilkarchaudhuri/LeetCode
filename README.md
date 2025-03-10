@@ -45,6 +45,7 @@ A collection of LeetCode questions completed
 | [1798-max-number-of-k-sum-pairs](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions completed
 | [0649-dota2-senate](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0649-dota2-senate) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -177,6 +179,7 @@ A collection of LeetCode questions completed
 | [0239-sliding-window-maximum](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3483-alternating-groups-ii](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/3483-alternating-groups-ii) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Backtracking
 |  |
 | ------- |
