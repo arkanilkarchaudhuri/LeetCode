@@ -226,6 +226,7 @@ A collection of LeetCode questions completed
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0437-path-sum-iii) |
 | [0904-leaf-similar-trees](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0904-leaf-similar-trees) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions completed
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0437-path-sum-iii) |
 | [0904-leaf-similar-trees](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0904-leaf-similar-trees) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions completed
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0437-path-sum-iii) |
 | [0904-leaf-similar-trees](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0904-leaf-similar-trees) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
@@ -259,6 +262,7 @@ A collection of LeetCode questions completed
 | [0127-word-ladder](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0127-word-ladder) |
 | [0199-binary-tree-right-side-view](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0301-remove-invalid-parentheses](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0301-remove-invalid-parentheses) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Trie
 |  |
