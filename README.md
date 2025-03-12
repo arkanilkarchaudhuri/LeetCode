@@ -31,6 +31,7 @@ A collection of LeetCode questions completed
 | [1798-max-number-of-k-sum-pairs](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2636-maximum-subsequence-score](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2636-maximum-subsequence-score) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions completed
 | [1798-max-number-of-k-sum-pairs](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Sorting
 |  |
@@ -137,6 +139,7 @@ A collection of LeetCode questions completed
 | ------- |
 | [0068-text-justification](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0068-text-justification) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Greedy
 |  |
 | ------- |
@@ -180,6 +183,7 @@ A collection of LeetCode questions completed
 | [0218-the-skyline-problem](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [2413-smallest-number-in-infinite-set](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2636-maximum-subsequence-score) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Merge Sort
