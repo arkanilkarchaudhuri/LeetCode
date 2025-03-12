@@ -24,6 +24,7 @@ A collection of LeetCode questions completed
 | [0330-patching-array](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0330-patching-array) |
 | [0399-evaluate-division](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0399-evaluate-division) |
 | [0724-find-pivot-index](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0724-find-pivot-index) |
+| [1036-rotting-oranges](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1036-rotting-oranges) |
 | [1319-unique-number-of-occurrences](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions completed
 | [0085-maximal-rectangle](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0174-dungeon-game](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0174-dungeon-game) |
 | [0212-word-search-ii](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0212-word-search-ii) |
+| [1036-rotting-oranges](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1036-rotting-oranges) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [3227-find-missing-and-repeated-values](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Monotonic Stack
@@ -281,6 +283,7 @@ A collection of LeetCode questions completed
 | [0399-evaluate-division](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0871-keys-and-rooms) |
+| [1036-rotting-oranges](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
