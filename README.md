@@ -336,6 +336,7 @@ A collection of LeetCode questions completed
 |  |
 | ------- |
 | [0327-count-of-range-sum](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0327-count-of-range-sum) |
+| [0374-guess-number-higher-or-lower](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3643-zero-array-transformation-ii](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/3643-zero-array-transformation-ii) |
@@ -419,4 +420,8 @@ A collection of LeetCode questions completed
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
