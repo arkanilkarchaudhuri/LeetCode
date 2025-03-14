@@ -14,6 +14,7 @@ A collection of LeetCode questions completed
 | [0135-candy](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0135-candy) |
 | [0140-word-break-ii](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0149-max-points-on-a-line) |
+| [0162-find-peak-element](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0162-find-peak-element) |
 | [0174-dungeon-game](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0174-dungeon-game) |
 | [0212-word-search-ii](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions completed
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0162-find-peak-element) |
 | [0327-count-of-range-sum](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0327-count-of-range-sum) |
 | [0374-guess-number-higher-or-lower](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
