@@ -39,6 +39,7 @@ A collection of LeetCode questions completed
 | [2553-total-cost-to-hire-k-workers](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2636-maximum-subsequence-score](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2636-maximum-subsequence-score) |
+| [2690-house-robber-iv](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2690-house-robber-iv) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3227-find-missing-and-repeated-values](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions completed
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2690-house-robber-iv](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2690-house-robber-iv) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3643-zero-array-transformation-ii](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 ## Binary Indexed Tree
