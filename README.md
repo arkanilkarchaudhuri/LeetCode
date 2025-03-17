@@ -16,6 +16,7 @@ A collection of LeetCode questions completed
 | [0149-max-points-on-a-line](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0162-find-peak-element](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0162-find-peak-element) |
 | [0174-dungeon-game](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0174-dungeon-game) |
+| [0198-house-robber](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0198-house-robber) |
 | [0212-word-search-ii](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0216-combination-sum-iii) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions completed
 | [0124-binary-tree-maximum-path-sum](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0140-word-break-ii](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0140-word-break-ii) |
 | [0174-dungeon-game](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0174-dungeon-game) |
+| [0198-house-robber](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0198-house-robber) |
 | [0233-number-of-digit-one](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0392-is-subsequence](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0392-is-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
