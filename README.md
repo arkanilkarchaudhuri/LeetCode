@@ -129,6 +129,7 @@ A collection of LeetCode questions completed
 | [0032-longest-valid-parentheses](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0044-wildcard-matching) |
+| [0062-unique-paths](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0062-unique-paths) |
 | [0085-maximal-rectangle](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0087-scramble-string) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions completed
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0062-unique-paths) |
 | [0149-max-points-on-a-line](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0224-basic-calculator](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0233-number-of-digit-one) |
@@ -458,4 +460,8 @@ A collection of LeetCode questions completed
 |  |
 | ------- |
 | [2308-divide-array-into-equal-pairs](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
