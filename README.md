@@ -36,6 +36,7 @@ A collection of LeetCode questions completed
 | [1798-max-number-of-k-sum-pairs](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2308-divide-array-into-equal-pairs](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions completed
 | [1392-find-the-difference-of-two-arrays](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2308-divide-array-into-equal-pairs](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2413-smallest-number-in-infinite-set](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -439,6 +441,7 @@ A collection of LeetCode questions completed
 ## Counting
 |  |
 | ------- |
+| [2308-divide-array-into-equal-pairs](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Quickselect
 |  |
@@ -448,4 +451,8 @@ A collection of LeetCode questions completed
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2308-divide-array-into-equal-pairs](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 <!---LeetCode Topics End-->
