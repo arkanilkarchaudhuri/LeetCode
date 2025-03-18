@@ -119,6 +119,7 @@ A collection of LeetCode questions completed
 | [0394-decode-string](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0399-evaluate-division) |
 | [0649-dota2-senate](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0649-dota2-senate) |
+| [1250-longest-common-subsequence](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions completed
 | [0747-min-cost-climbing-stairs](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [1236-n-th-tribonacci-number](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1236-n-th-tribonacci-number) |
+| [1250-longest-common-subsequence](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Stack
 |  |
