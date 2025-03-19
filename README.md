@@ -108,6 +108,7 @@ A collection of LeetCode questions completed
 | [0044-wildcard-matching](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0044-wildcard-matching) |
 | [0065-valid-number](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0068-text-justification) |
+| [0072-edit-distance](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0087-scramble-string](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0087-scramble-string) |
 | [0127-word-ladder](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0127-word-ladder) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions completed
 | [0042-trapping-rain-water](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0062-unique-paths) |
+| [0072-edit-distance](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0087-scramble-string) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
