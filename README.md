@@ -12,6 +12,7 @@ A collection of LeetCode questions completed
 | [0085-maximal-rectangle](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0135-candy](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0136-single-number) |
 | [0140-word-break-ii](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0162-find-peak-element](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0162-find-peak-element) |
@@ -473,6 +474,7 @@ A collection of LeetCode questions completed
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0338-counting-bits) |
 | [2308-divide-array-into-equal-pairs](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2478-longest-nice-subarray) |
