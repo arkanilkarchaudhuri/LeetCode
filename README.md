@@ -145,6 +145,7 @@ A collection of LeetCode questions completed
 | [0174-dungeon-game](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0198-house-robber) |
 | [0233-number-of-digit-one](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0233-number-of-digit-one) |
+| [0338-counting-bits](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0392-is-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
@@ -472,6 +473,7 @@ A collection of LeetCode questions completed
 ## Bit Manipulation
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0338-counting-bits) |
 | [2308-divide-array-into-equal-pairs](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
