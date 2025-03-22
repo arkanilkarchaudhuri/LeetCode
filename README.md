@@ -316,6 +316,7 @@ A collection of LeetCode questions completed
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [2793-count-the-number-of-complete-components](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Binary Tree
 |  |
@@ -346,6 +347,7 @@ A collection of LeetCode questions completed
 | [1544-count-good-nodes-in-binary-tree](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2793-count-the-number-of-complete-components](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 ## Trie
 |  |
 | ------- |
@@ -454,12 +456,14 @@ A collection of LeetCode questions completed
 | [0871-keys-and-rooms](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0871-keys-and-rooms) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2793-count-the-number-of-complete-components](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Union Find
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0547-number-of-provinces) |
+| [2793-count-the-number-of-complete-components](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Shortest Path
 |  |
