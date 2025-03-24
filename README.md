@@ -32,6 +32,7 @@ A collection of LeetCode questions completed
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0907-koko-eating-bananas](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1036-rotting-oranges](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1036-rotting-oranges) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions completed
 | [0224-basic-calculator](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0224-basic-calculator) |
 | [0321-create-maximum-number](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0321-create-maximum-number) |
 | [0394-decode-string](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0394-decode-string) |
+| [0739-daily-temperatures](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0739-daily-temperatures) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions completed
 | [0084-largest-rectangle-in-histogram](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0321-create-maximum-number](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0321-create-maximum-number) |
+| [0739-daily-temperatures](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0739-daily-temperatures) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Math
 |  |
