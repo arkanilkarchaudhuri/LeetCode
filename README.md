@@ -183,6 +183,7 @@ A collection of LeetCode questions completed
 | [0321-create-maximum-number](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0321-create-maximum-number) |
 | [0394-decode-string](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0394-decode-string) |
 | [0739-daily-temperatures](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0739-daily-temperatures) |
+| [0937-online-stock-span](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0937-online-stock-span) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions completed
 | [0085-maximal-rectangle](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0321-create-maximum-number](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0321-create-maximum-number) |
 | [0739-daily-temperatures](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0739-daily-temperatures) |
+| [0937-online-stock-span](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0937-online-stock-span) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Math
 |  |
@@ -394,11 +396,13 @@ A collection of LeetCode questions completed
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0937-online-stock-span](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0969-number-of-recent-calls) |
 | [2413-smallest-number-in-infinite-set](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 ## Data Stream
 |  |
 | ------- |
+| [0937-online-stock-span](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0969-number-of-recent-calls) |
 ## Binary Search
 |  |
