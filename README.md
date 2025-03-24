@@ -28,6 +28,7 @@ A collection of LeetCode questions completed
 | [0327-count-of-range-sum](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0327-count-of-range-sum) |
 | [0330-patching-array](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0330-patching-array) |
 | [0399-evaluate-division](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0399-evaluate-division) |
+| [0435-non-overlapping-intervals](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0724-find-pivot-index) |
 | [0747-min-cost-climbing-stairs](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions completed
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0220-contains-duplicate-iii](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0220-contains-duplicate-iii) |
+| [0435-non-overlapping-intervals](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [1397-search-suggestions-system](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions completed
 | [0233-number-of-digit-one](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0338-counting-bits](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0392-is-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
@@ -192,6 +195,7 @@ A collection of LeetCode questions completed
 | [0135-candy](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0135-candy) |
 | [0321-create-maximum-number](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0321-create-maximum-number) |
 | [0330-patching-array](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0330-patching-array) |
+| [0435-non-overlapping-intervals](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0649-dota2-senate](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0649-dota2-senate) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [2636-maximum-subsequence-score](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2636-maximum-subsequence-score) |
