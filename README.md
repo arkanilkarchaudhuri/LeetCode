@@ -66,6 +66,7 @@ A collection of LeetCode questions completed
 | [0127-word-ladder](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0127-word-ladder) |
 | [0140-word-break-ii](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0149-max-points-on-a-line) |
+| [0208-implement-trie-prefix-tree](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [1319-unique-number-of-occurrences](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions completed
 | [0087-scramble-string](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0087-scramble-string) |
 | [0127-word-ladder](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0127-word-ladder) |
 | [0140-word-break-ii](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0140-word-break-ii) |
+| [0208-implement-trie-prefix-tree](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0224-basic-calculator) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions completed
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0140-word-break-ii) |
+| [0208-implement-trie-prefix-tree](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0212-word-search-ii) |
 ## Memoization
 |  |
@@ -375,6 +378,7 @@ A collection of LeetCode questions completed
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0969-number-of-recent-calls](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0969-number-of-recent-calls) |
 | [2413-smallest-number-in-infinite-set](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 ## Data Stream
