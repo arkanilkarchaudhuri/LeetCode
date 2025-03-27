@@ -54,6 +54,7 @@ A collection of LeetCode questions completed
 | [2665-minimum-time-to-repair-cars](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2690-house-robber-iv) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3227-find-missing-and-repeated-values](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions completed
 | [2308-divide-array-into-equal-pairs](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2413-smallest-number-in-infinite-set](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3227-find-missing-and-repeated-values](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Prefix Sum
@@ -114,6 +116,7 @@ A collection of LeetCode questions completed
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2636-maximum-subsequence-score](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2636-maximum-subsequence-score) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3430-count-days-without-meetings](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## String
