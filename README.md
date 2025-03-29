@@ -57,6 +57,7 @@ A collection of LeetCode questions completed
 | [2690-house-robber-iv](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2690-house-robber-iv) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3001-apply-operations-to-maximize-score](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3227-find-missing-and-repeated-values](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions completed
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2636-maximum-subsequence-score](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2636-maximum-subsequence-score) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3001-apply-operations-to-maximize-score](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3430-count-days-without-meetings](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## String
@@ -198,6 +200,7 @@ A collection of LeetCode questions completed
 | [0937-online-stock-span](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0937-online-stock-span) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [3001-apply-operations-to-maximize-score](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Simulation
 |  |
@@ -217,6 +220,7 @@ A collection of LeetCode questions completed
 | [0649-dota2-senate](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0649-dota2-senate) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [2636-maximum-subsequence-score](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2636-maximum-subsequence-score) |
+| [3001-apply-operations-to-maximize-score](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Recursion
 |  |
 | ------- |
@@ -306,6 +310,7 @@ A collection of LeetCode questions completed
 | [0321-create-maximum-number](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0321-create-maximum-number) |
 | [0739-daily-temperatures](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0937-online-stock-span) |
+| [3001-apply-operations-to-maximize-score](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Math
 |  |
@@ -321,6 +326,7 @@ A collection of LeetCode questions completed
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2610-closest-prime-numbers-in-range](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
+| [3001-apply-operations-to-maximize-score](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Tree
 |  |
@@ -487,6 +493,7 @@ A collection of LeetCode questions completed
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
+| [3001-apply-operations-to-maximize-score](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Binary Search Tree
 |  |
 | ------- |
