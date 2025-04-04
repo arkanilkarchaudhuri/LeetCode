@@ -82,6 +82,7 @@ A collection of LeetCode questions completed
 | [0149-max-points-on-a-line](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0208-implement-trie-prefix-tree](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0768-partition-labels](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0768-partition-labels) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1319-unique-number-of-occurrences](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions completed
 | [0783-search-in-a-binary-search-tree](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions completed
 | [0871-keys-and-rooms](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -385,6 +388,7 @@ A collection of LeetCode questions completed
 | [0783-search-in-a-binary-search-tree](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
@@ -399,6 +403,7 @@ A collection of LeetCode questions completed
 | [0871-keys-and-rooms](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0871-keys-and-rooms) |
 | [1036-rotting-oranges](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
