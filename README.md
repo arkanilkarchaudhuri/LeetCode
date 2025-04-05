@@ -43,6 +43,7 @@ A collection of LeetCode questions completed
 | [1397-search-suggestions-system](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1833-find-the-highest-altitude) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions completed
 | [0216-combination-sum-iii](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0282-expression-add-operators](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0282-expression-add-operators) |
 | [0301-remove-invalid-parentheses](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0301-remove-invalid-parentheses) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Matrix
 |  |
 | ------- |
@@ -336,6 +338,7 @@ A collection of LeetCode questions completed
 | [0273-integer-to-english-words](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0282-expression-add-operators) |
 | [1236-n-th-tribonacci-number](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1236-n-th-tribonacci-number) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2610-closest-prime-numbers-in-range](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
@@ -559,6 +562,7 @@ A collection of LeetCode questions completed
 | [0136-single-number](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0338-counting-bits) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -567,9 +571,14 @@ A collection of LeetCode questions completed
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0062-unique-paths) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Topological Sort
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
