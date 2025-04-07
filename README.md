@@ -29,6 +29,7 @@ A collection of LeetCode questions completed
 | [0327-count-of-range-sum](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0327-count-of-range-sum) |
 | [0330-patching-array](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0330-patching-array) |
 | [0399-evaluate-division](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0399-evaluate-division) |
+| [0416-partition-equal-subset-sum](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions completed
 | [0233-number-of-digit-one](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0338-counting-bits](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0392-is-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
