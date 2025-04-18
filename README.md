@@ -153,6 +153,7 @@ A collection of LeetCode questions completed
 | [0017-letter-combinations-of-a-phone-number](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0044-wildcard-matching) |
 | [0065-valid-number](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0068-text-justification) |
