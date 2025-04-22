@@ -218,6 +218,7 @@ A collection of LeetCode questions completed
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Stack
 |  |
@@ -371,6 +372,7 @@ A collection of LeetCode questions completed
 | [1993-sum-of-all-subset-xor-totals](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2998-count-symmetric-integers](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2998-count-symmetric-integers) |
@@ -551,6 +553,7 @@ A collection of LeetCode questions completed
 ## Number Theory
 |  |
 | ------- |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [3001-apply-operations-to-maximize-score](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Binary Search Tree
@@ -611,6 +614,7 @@ A collection of LeetCode questions completed
 | ------- |
 | [0062-unique-paths](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3548-find-the-count-of-good-integers](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 ## Topological Sort
 |  |
