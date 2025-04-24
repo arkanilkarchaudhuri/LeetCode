@@ -98,6 +98,7 @@ A collection of LeetCode questions completed
 | [1319-unique-number-of-occurrences](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1500-count-largest-group](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1500-count-largest-group) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions completed
 | [0282-expression-add-operators](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0282-expression-add-operators) |
 | [0797-rabbits-in-forest](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1236-n-th-tribonacci-number](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1236-n-th-tribonacci-number) |
+| [1500-count-largest-group](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1500-count-largest-group) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
