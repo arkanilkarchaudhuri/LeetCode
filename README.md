@@ -69,6 +69,7 @@ A collection of LeetCode questions completed
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2915-count-of-interesting-subarrays](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3001-apply-operations-to-maximize-score](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions completed
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2915-count-of-interesting-subarrays](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3548-find-the-count-of-good-integers](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions completed
 | [0724-find-pivot-index](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0724-find-pivot-index) |
 | [1833-find-the-highest-altitude](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [2249-count-the-hidden-sequences](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2249-count-the-hidden-sequences) |
+| [2915-count-of-interesting-subarrays](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 ## Two Pointers
