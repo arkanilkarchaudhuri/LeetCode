@@ -57,6 +57,7 @@ A collection of LeetCode questions completed
 | [2308-divide-array-into-equal-pairs](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2478-longest-nice-subarray](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2478-longest-nice-subarray) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions completed
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2478-longest-nice-subarray) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -478,6 +480,7 @@ A collection of LeetCode questions completed
 | [0239-sliding-window-maximum](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0649-dota2-senate](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0649-dota2-senate) |
 | [0969-number-of-recent-calls](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0969-number-of-recent-calls) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Design
 |  |
@@ -554,6 +557,7 @@ A collection of LeetCode questions completed
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Database
 |  |
 | ------- |
