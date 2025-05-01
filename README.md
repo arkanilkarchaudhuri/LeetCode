@@ -50,6 +50,7 @@ A collection of LeetCode questions completed
 | [1993-sum-of-all-subset-xor-totals](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2249-count-the-hidden-sequences](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions completed
 | [1397-search-suggestions-system](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2636-maximum-subsequence-score](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2636-maximum-subsequence-score) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions completed
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0768-partition-labels](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2636-maximum-subsequence-score](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2636-maximum-subsequence-score) |
 | [2681-put-marbles-in-bags](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
@@ -488,6 +491,7 @@ A collection of LeetCode questions completed
 | [0239-sliding-window-maximum](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0649-dota2-senate](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0649-dota2-senate) |
 | [0969-number-of-recent-calls](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0969-number-of-recent-calls) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Design
@@ -511,6 +515,7 @@ A collection of LeetCode questions completed
 | [0907-koko-eating-bananas](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1397-search-suggestions-system](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1397-search-suggestions-system) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -566,6 +571,7 @@ A collection of LeetCode questions completed
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Database
 |  |
