@@ -39,6 +39,7 @@ A collection of LeetCode questions completed
 | [0797-rabbits-in-forest](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0907-koko-eating-bananas](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1036-rotting-oranges](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1036-rotting-oranges) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1319-unique-number-of-occurrences](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions completed
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0768-partition-labels](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2636-maximum-subsequence-score](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2636-maximum-subsequence-score) |
 | [2681-put-marbles-in-bags](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2681-put-marbles-in-bags) |
