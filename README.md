@@ -40,6 +40,7 @@ A collection of LeetCode questions completed
 | [0747-min-cost-climbing-stairs](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0797-rabbits-in-forest](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0907-koko-eating-bananas](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [0945-snakes-and-ladders](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1036-rotting-oranges) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions completed
 | [0085-maximal-rectangle](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0174-dungeon-game](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0174-dungeon-game) |
 | [0212-word-search-ii](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0212-word-search-ii) |
+| [0945-snakes-and-ladders](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1036-rotting-oranges) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -528,6 +530,7 @@ A collection of LeetCode questions completed
 | [0399-evaluate-division](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0871-keys-and-rooms) |
+| [0945-snakes-and-ladders](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
