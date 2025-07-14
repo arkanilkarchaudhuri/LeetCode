@@ -351,6 +351,7 @@ A collection of LeetCode questions completed
 | [0025-reverse-nodes-in-k-group](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0328-odd-even-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Divide and Conquer
@@ -453,6 +454,7 @@ A collection of LeetCode questions completed
 | [0282-expression-add-operators](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0282-expression-add-operators) |
 | [0797-rabbits-in-forest](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1236-n-th-tribonacci-number](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1236-n-th-tribonacci-number) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1500-count-largest-group) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
