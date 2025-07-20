@@ -57,6 +57,7 @@ A collection of LeetCode questions completed
 | [1993-sum-of-all-subset-xor-totals](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2048-build-array-from-permutation](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2048-build-array-from-permutation) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions completed
 | [1500-count-largest-group](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1500-count-largest-group) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2215-finding-3-digit-even-numbers](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions completed
 | [1397-search-suggestions-system](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -560,6 +563,7 @@ A collection of LeetCode questions completed
 | [0208-implement-trie-prefix-tree](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0212-word-search-ii) |
 | [1397-search-suggestions-system](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1397-search-suggestions-system) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Memoization
 |  |
 | ------- |
@@ -637,6 +641,7 @@ A collection of LeetCode questions completed
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0214-shortest-palindrome) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Line Sweep
 |  |
 | ------- |
