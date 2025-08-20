@@ -49,6 +49,7 @@ A collection of LeetCode questions completed
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1397-search-suggestions-system](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1397-search-suggestions-system) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1656-count-good-triplets](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1656-count-good-triplets) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions completed
 | [0868-push-dominoes](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0868-push-dominoes) |
 | [1236-n-th-tribonacci-number](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1250-longest-common-subsequence) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
@@ -431,6 +433,7 @@ A collection of LeetCode questions completed
 | [0212-word-search-ii](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0212-word-search-ii) |
 | [0945-snakes-and-ladders](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1036-rotting-oranges) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
