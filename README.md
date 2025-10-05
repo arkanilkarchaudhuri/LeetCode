@@ -345,6 +345,7 @@ A collection of LeetCode questions completed
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0025-reverse-nodes-in-k-group](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0044-wildcard-matching) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions completed
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0206-reverse-linked-list) |
@@ -459,6 +461,7 @@ A collection of LeetCode questions completed
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0002-add-two-numbers) |
 | [0060-permutation-sequence](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0062-unique-paths) |
 | [0149-max-points-on-a-line](https://github.com/arkanilkarchaudhuri/LeetCode/tree/master/0149-max-points-on-a-line) |
